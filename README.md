@@ -18,4 +18,11 @@ Currently contributing to transformative projects at JPMorgan Chase
 - I have successfully led teams to modernize legacy applications and optimize cloud infrastructure.
 - Mentored junior developers, fostering a culture of continuous learning and innovatin.
 
+## 📈 GitHub Stats
 
+![Subrahmanyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=msminus&show_icons=true&theme=radical)
+
+## 📫 Connect with M
+
+- LinkedIn: [linkedin.com/in/subrahmanyam-mamidi-78b95115](https://www.linkedin.com/in/subrahmanyam-mamidi-78b9115)
+- Email: raghuteachings@gmail.com
